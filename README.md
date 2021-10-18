@@ -6,7 +6,7 @@
 
 项目 | 编程语言 | 说明 | 用于作品
 --- | --- | --- | ---
-Snowvy(计划中) | Rust + Lua | 游戏引擎 | 朝露(计划中)、东方蝶梦志2(计划中)
+Snowy(计划中) | Rust + Lua | 游戏引擎 | 朝露(计划中)、东方蝶梦志2(计划中)
 [Pipe(WIP)](https://github.com/Seng-Jik/Pipe) | Haskell | 自动化素材管线 | 朝露(计划中)
 [Snowing](https://github.com/Strrationalism/Snowing) | C++ (MSVC) | 游戏引擎 | 空梦
 [SDFTool](https://github.com/Strrationalism/SDFTool) | Rust + OpenCL | 有符号向量场字体/徽标生成工具 | 空梦、朝露(计划中)
@@ -19,7 +19,7 @@ Snowvy(计划中) | Rust + Lua | 游戏引擎 | 朝露(计划中)、东方蝶梦
 --- | --- | --- | ---
 [Dmsl](https://github.com/Strrationalism/Dmsl) | C++ (MSVC) | 弹幕脚本语言 | 东方蝶梦志
 [ThdmzAssetShare](https://github.com/Strrationalism/ThdmzAssetShare) | | 东方蝶梦志素材共享仓库 | 东方蝶梦志
-LuaSTG-Dmsl(计划中) | Rust + Lua | 基于LuaSTG改进的弹幕射击游戏引擎 | 东方蝶梦志2(计划中)
+LuaSTG-Dmsl(计划中) | Rust + Lua | 基于LuaSTG改进并使用Snowy实现的弹幕射击游戏引擎 | 东方蝶梦志2(计划中)
 Dmsl2(计划中) | Haskell | 用于描述弹幕路径的声明式脚本语言 | 东方蝶梦志2(计划中)
 
 
@@ -28,7 +28,7 @@ Dmsl2(计划中) | Haskell | 用于描述弹幕路径的声明式脚本语言 | 
 项目 | 编程语言 | 说明 | 用于作品
 --- | --- | --- | ---
 [YukimiScript](https://github.com/Strrationalism/YukimiScript) | F# (.NET 5) | 用于视觉小说演出的编译型脚本语言 | 空梦、朝露(计划中)
-Yukihara(计划中) | Rust + Lua | 基于Snowvy的视觉小说引擎
+Yukihara(计划中) | Rust + Lua | 基于Snowy的视觉小说引擎
 Yukihara Editor(计划中) | C# + F# | 可视化视觉小说编辑器 | 朝露(计划中)
 
 
