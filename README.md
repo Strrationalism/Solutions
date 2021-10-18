@@ -28,7 +28,7 @@ Dmsl2(计划中) | Haskell | 用于描述弹幕路径的声明式脚本语言 | 
 项目 | 编程语言 | 说明 | 用于作品
 --- | --- | --- | ---
 [YukimiScript](https://github.com/Strrationalism/YukimiScript) | F# (.NET 5) | 用于视觉小说演出的编译型脚本语言 | 空梦、朝露(计划中)
-Yukihara(计划中) | Rust + Lua | 基于Snowy的视觉小说引擎
+Yukihara(计划中) | Rust + Lua | 基于Snowy的视觉小说引擎 | 朝露(计划中)
 Yukihara Editor(计划中) | C# + F# | 可视化视觉小说编辑器 | 朝露(计划中)
 
 
