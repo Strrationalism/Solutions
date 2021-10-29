@@ -7,7 +7,7 @@
 项目 | 编程语言 | 说明 | 用于作品
 --- | --- | --- | ---
 Snowy(计划中) | Rust + Lua | 游戏引擎 | 朝露(计划中)、东方蝶梦志2(计划中)
-[Pipe(WIP)](https://github.com/Seng-Jik/Pipe) | Haskell | 自动化素材管线 | 朝露(计划中)
+[Pipe](https://github.com/Strrationalism/Pipe) | Haskell | 自动化素材管线 | 朝露(计划中)
 [Snowing](https://github.com/Strrationalism/Snowing) | C++ (MSVC) | 游戏引擎 | 空梦
 [SDFTool](https://github.com/Strrationalism/SDFTool) | Rust + OpenCL | 有符号向量场字体/徽标生成工具 | 空梦、朝露(计划中)
 [SpritePacker](https://github.com/Strrationalism/SpritePacker) | OCaml | 精灵纹理打包工具 | 东方蝶梦志、空梦、朝露(计划中)
