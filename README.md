@@ -13,7 +13,7 @@ Snowy(计划中) | Rust + Lua | 游戏引擎 | 朝露(计划中)、东方蝶梦�
 [SpritePacker](https://github.com/Strrationalism/SpritePacker) | OCaml | 精灵纹理打包工具 | 东方蝶梦志、空梦、朝露(计划中)
 [Bake](https://github.com/Strrationalism/Bake) | F# (.NET5) | 构建系统 | 空梦
 
-## Kazemi Solution - 用于开发弹幕射击游戏
+## Kazami Solution - 用于开发弹幕射击游戏
 
 项目 | 编程语言 | 说明 | 用于作品
 --- | --- | --- | ---
